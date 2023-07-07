@@ -3,10 +3,10 @@ import { useState } from "react";
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+      <div className="bg-background text-text w-full min-h-screen">
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nostrum,
+        itaque!
+      </div>
     </>
   );
 }
