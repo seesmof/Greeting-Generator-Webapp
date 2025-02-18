@@ -3,7 +3,7 @@
 
 Icon probably taken from [Flaticon](https://www.flaticon.com/), might be copyrighted.
 
-Logo taken from Vite, their copyright statement:
+Logo taken from [Vite](https://vite.dev/), their copyright statement:
 
 > Released under the MIT License. (335e2155)
 >
